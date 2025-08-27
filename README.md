@@ -1,7 +1,8 @@
 ## Hi there 👋
 ## 📜 Certifications
-
-- [Oracle Cloud Infrastructure AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=44364A358D6BDA7EB6A12F18C3BB35056FA14A651BE3EFC5C75026FE8813F9E2)
+[![OCI AI Foundations Badge](![OCI25AICFA (1)](https://github.com/user-attachments/assets/7bdbda15-570c-4498-9f47-845f51eb40fa))](https://catalog-education.oracle.com/pls/certview/sharebadge?id=44364A358D6BDA7EB6A12F18C3BB35056FA14A651BE3EFC5C75026FE8813F9E2)  
+[🧾 View certificate (PDF)]
+[eCertificate_oracle.pdf](https://github.com/user-attachments/files/22004244/eCertificate_oracle.pdf)
 
 
 <!--
@@ -18,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
