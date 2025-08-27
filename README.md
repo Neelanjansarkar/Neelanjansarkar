@@ -1,4 +1,8 @@
 ## Hi there 👋
+## 📜 Certifications
+
+- [Oracle Cloud Infrastructure AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=44364A358D6BDA7EB6A12F18C3BB35056FA14A651BE3EFC5C75026FE8813F9E2)
+
 
 <!--
 **Neelanjansarkar/Neelanjansarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
